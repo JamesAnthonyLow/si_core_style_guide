@@ -81,13 +81,13 @@ All structs should be defined with a typedef that allows declaration without the
 Also the name of the struct should be the same as the typedef'd name and all structs should have both always even if the struct name is not used.
 
 ```c
-struct foo{
+struct foo_bar_baz {
   //```
-}foo;
+}foo_bar_baz;
 ```
-The naming convention for declaration is to prefix the FULL STRUCT NAME to your variable, please NO abbreviations:
+The naming convention for declaration is to prefix the abbreviated initials of the struct name:
 
 ```c
-foo foo_bar;
+foo_bar_baz fbb_foo;
 ```
 
