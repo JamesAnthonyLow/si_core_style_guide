@@ -59,9 +59,9 @@ char|ch|```char ch_foo```|```char chFoo```
 unsigned char|uch|```unsigned char uch_foo```|```unsigned char uch_foo```
 int|n|```int n_foo```|```int nFoo```
 unsigned int|un|```unsigned int un_foo```|```unsigned int unFoo```
-short|sh|```short sh_foo```|short shFoo
+short|sh|```short sh_foo```|```short shFoo```
 unsigned short|ush|```unsigned short ush_foo```|```unsigned short ushFoo```
-long|l|```long l_foo```|long lFoo```
+long|l|```long l_foo```|```long lFoo```
 unsigned long|ul|```unsigned long ul_foo```|```unsigned long ulFoo```
 unsigned long long|ull|```unsigned long long ull_foo```|```unsigned long long ull_foo```
 
